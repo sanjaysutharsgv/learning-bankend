@@ -8,4 +8,15 @@
   },
   "author": "sanjay",
   "license": "ISC"
+},
+{
+  "name": "7th",
+  "version": "1.0.0",
+  "description": "backend learong from chai with code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanjay",
+  "license": "ISC"
 }
